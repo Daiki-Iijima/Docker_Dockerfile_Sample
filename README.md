@@ -1,4 +1,4 @@
-# Dockerでしようする、Dockerfileのサンプル
+# Dockerで使用する、Dockerfileのサンプル
 
 ## app.js
 
